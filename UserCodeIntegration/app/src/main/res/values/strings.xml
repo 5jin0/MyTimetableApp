@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTimetable</string>
+    <string name="btn_save">저장</string>
+    <string name="btn_add_schedule">시간표 추가하기</string>
+
+    <string-array name="days_of_week">
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+        <item>일요일</item>
+    </string-array>
+</resources>
